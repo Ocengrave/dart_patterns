@@ -1,0 +1,5 @@
+enum AuthAction
+{
+  login,
+  logout,
+}
